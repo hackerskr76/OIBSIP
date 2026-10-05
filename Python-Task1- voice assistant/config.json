@@ -1,0 +1,28 @@
+{
+  "assistant_name": "Aura",
+  "voice_gender": "female",
+  "speech_rate": 185,
+  "volume": 1.0,
+  "phrase_time_limit": 8,
+  "non_speaking_duration": 0.5,
+  "energy_threshold": 300,
+  "dynamic_energy_threshold": true,
+  "openweathermap": {
+    "api_key": "YOUR_OPENWEATHERMAP_API_KEY",
+    "default_city": "London",
+    "units": "metric"
+  },
+  "email": {
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "sender_email": "your_email@gmail.com",
+    "sender_password": "your_app_password"
+  },
+  "custom_commands": {
+    "who made you": "I was designed and coded by an expert Python engineer.",
+    "what is your mission": "My mission is to assist you with your daily computing tasks.",
+    "tell me a joke": "Why do programmers prefer dark mode? Because light attracts bugs!",
+    "how are you": "I am functioning at full capacity in background listening mode!",
+    "what can you do": "I run as a background agent and can check the weather, look up Wikipedia, search the web, tell the time and date, set reminders, send emails, and answer your custom questions."
+  }
+}

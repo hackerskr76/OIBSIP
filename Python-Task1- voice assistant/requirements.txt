@@ -1,0 +1,8 @@
+# Core Audio & Speech
+SpeechRecognition>=3.10.0
+pyttsx3>=2.90
+PyAudio>=0.2.14
+
+# Web & Data APIs
+requests>=2.31.0
+wikipedia>=1.4.0
